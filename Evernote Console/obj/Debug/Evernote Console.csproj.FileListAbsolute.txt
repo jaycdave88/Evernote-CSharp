@@ -1,0 +1,30 @@
+C:\TFS\tfs2013\kCura\RelaNote\POC\Evernote Console\Evernote Console\bin\Debug\Evernote Console.exe.config
+C:\TFS\tfs2013\kCura\RelaNote\POC\Evernote Console\Evernote Console\bin\Debug\Evernote Console.exe
+C:\TFS\tfs2013\kCura\RelaNote\POC\Evernote Console\Evernote Console\bin\Debug\Evernote Console.pdb
+C:\TFS\tfs2013\kCura\RelaNote\POC\Evernote Console\Evernote Console\obj\Debug\Evernote Console.csprojResolveAssemblyReference.cache
+C:\TFS\tfs2013\kCura\RelaNote\POC\Evernote Console\Evernote Console\obj\Debug\Evernote Console.exe
+C:\TFS\tfs2013\kCura\RelaNote\POC\Evernote Console\Evernote Console\obj\Debug\Evernote Console.pdb
+C:\TFS\tfs2013\kCura\RelaNote\POC\Evernote Console\Evernote Console\bin\Debug\CsQuery.dll
+C:\TFS\tfs2013\kCura\RelaNote\POC\Evernote Console\Evernote Console\bin\Debug\en-html2enml.dll
+C:\TFS\tfs2013\kCura\RelaNote\POC\Evernote Console\Evernote Console\bin\Debug\Evernote.dll
+C:\TFS\tfs2013\kCura\RelaNote\POC\Evernote Console\Evernote Console\bin\Debug\EvernoteOAuthNet.dll
+C:\TFS\tfs2013\kCura\RelaNote\POC\Evernote Console\Evernote Console\bin\Debug\EvernoteSDK.dll
+C:\TFS\tfs2013\kCura\RelaNote\POC\Evernote Console\Evernote Console\bin\Debug\PreMailer.Net.dll
+C:\TFS\tfs2013\kCura\RelaNote\POC\Evernote Console\Evernote Console\bin\Debug\SgmlReaderDll.dll
+C:\TFS\tfs2013\kCura\RelaNote\POC\Evernote Console\Evernote Console\bin\Debug\Thrift.dll
+C:\TFS\tfs2013\kCura\RelaNote\POC\Evernote Console\Evernote Console\bin\Debug\CsQuery.xml
+C:\Users\jdave\Desktop\One Drive\OneDrive\Code\Local\Evernote Console\Evernote Console\bin\Debug\Evernote Console.exe.config
+C:\Users\jdave\Desktop\One Drive\OneDrive\Code\Local\Evernote Console\Evernote Console\obj\Debug\Evernote Console.exe
+C:\Users\jdave\Desktop\One Drive\OneDrive\Code\Local\Evernote Console\Evernote Console\obj\Debug\Evernote Console.pdb
+C:\Users\jdave\Desktop\One Drive\OneDrive\Code\Local\Evernote Console\Evernote Console\bin\Debug\Evernote Console.exe
+C:\Users\jdave\Desktop\One Drive\OneDrive\Code\Local\Evernote Console\Evernote Console\bin\Debug\Evernote Console.pdb
+C:\Users\jdave\Desktop\One Drive\OneDrive\Code\Local\Evernote Console\Evernote Console\bin\Debug\CsQuery.dll
+C:\Users\jdave\Desktop\One Drive\OneDrive\Code\Local\Evernote Console\Evernote Console\bin\Debug\en-html2enml.dll
+C:\Users\jdave\Desktop\One Drive\OneDrive\Code\Local\Evernote Console\Evernote Console\bin\Debug\Evernote.dll
+C:\Users\jdave\Desktop\One Drive\OneDrive\Code\Local\Evernote Console\Evernote Console\bin\Debug\EvernoteOAuthNet.dll
+C:\Users\jdave\Desktop\One Drive\OneDrive\Code\Local\Evernote Console\Evernote Console\bin\Debug\EvernoteSDK.dll
+C:\Users\jdave\Desktop\One Drive\OneDrive\Code\Local\Evernote Console\Evernote Console\bin\Debug\PreMailer.Net.dll
+C:\Users\jdave\Desktop\One Drive\OneDrive\Code\Local\Evernote Console\Evernote Console\bin\Debug\SgmlReaderDll.dll
+C:\Users\jdave\Desktop\One Drive\OneDrive\Code\Local\Evernote Console\Evernote Console\bin\Debug\Thrift.dll
+C:\Users\jdave\Desktop\One Drive\OneDrive\Code\Local\Evernote Console\Evernote Console\bin\Debug\CsQuery.xml
+C:\Users\jdave\Desktop\One Drive\OneDrive\Code\Local\Evernote Console\Evernote Console\obj\Debug\Evernote Console.csprojResolveAssemblyReference.cache
